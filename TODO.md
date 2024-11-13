@@ -31,6 +31,7 @@ Fix Required:
 * Code refactor
 
 Priority Work:
+* Please make a timer to stop
 * [done] Playlist remove & rename feature
 * [done] Enqueue Song fix
 * [done] Go to Album & View Artist Fix
